@@ -15,4 +15,4 @@ The snake tail inherits the food color after every bite.
 2. Turtle Module
 
 # License
-- [MIT License](https://github.com/Solyyy/Snake-Game/blob/main/LICENSE)
+- [MIT License](https://github.com/Solyyy/Snake-Game/blob/master/LICENSE.TXT)
