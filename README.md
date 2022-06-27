@@ -8,6 +8,7 @@ It also has a built-in save function to save your high-score.
 
 # Snake Gameplay 
 The snake tail inherits the food color after every bite.
+
 ![This is an image](https://i.imgur.com/S7WbzDE.gif)
 
 # Dependencies
